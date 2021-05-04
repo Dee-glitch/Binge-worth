@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "release_date": "2010-07-16"
+  },
+  {
+    "id": "2",
+    "title": "Bird Box",
+    "director": "Susanne Bier",
+    "release_date": "2018-12-14"
+  }
+]
